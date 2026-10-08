@@ -63,3 +63,19 @@ It processes **PDF** and **DOCX** files, parses structured text across pages, pe
 ---
 
 ## 📂 Project Structure
+docmind/
+├── src/
+│   ├── App.jsx            # Main Single-Page Workbench Application
+│   ├── index.css          # Tailwind CSS directives
+│   └── main.jsx           # React DOM Entrypoint
+├── public/                # Static Assets
+├── .env.example           # Template for Environment Variables
+├── package.json           # Dependencies & Scripts
+├── vite.config.js         # Vite configuration
+└── README.md              # Project Documentation
+
+---
+
+
+
+
